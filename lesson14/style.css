@@ -1,0 +1,54 @@
+body{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    background: lightblue;
+}
+
+.container{
+    margin: 0px auto;
+    width: 30%;
+    text-align: center;
+    background: white;
+    height: 100vh;
+}
+.container div{
+    padding-top: 20px;
+}
+
+button{
+    border-radius: 5px;
+    border: none;
+    height: 25px;
+    background: greenyellow;
+    outline: 0;
+    cursor: pointer;
+}
+
+input{
+    border-radius: 5px;
+    height: 22px;
+}
+
+#list{
+    padding-top: 30px;
+    margin: 0;
+    padding-left: 0px;
+}
+
+#list li{
+    padding: 7px 15px;
+    list-style-type: none;
+    border-bottom: 2px solid lightgray;
+}
+
+a{
+    display: flex;
+    align-items: center;
+    justify-content: space-between
+}
+
+a img{
+    max-width: 70px;
+}
+

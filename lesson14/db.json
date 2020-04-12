@@ -1,0 +1,53 @@
+[
+    { 
+        "id": 1,
+        "title": "Унесенные ветром - Маргарет Митчелл",
+        "img": "https://lh3.googleusercontent.com/proxy/3jsnJ7Tjd1bjowAkBSXsz-4FnVSx-3guAq8H1d-B6kvyBcHcDlP74SS_TkbDniiqAGqhl39f6w"
+    },
+    { 
+        "id": 2,
+        "title": "Сто лет одиночества - Габриэль Гарсия Маркес",
+        "img": "https://lh3.googleusercontent.com/proxy/3jsnJ7Tjd1bjowAkBSXsz-4FnVSx-3guAq8H1d-B6kvyBcHcDlP74SS_TkbDniiqAGqhl39f6w"
+    },
+    { 
+        "id": 3,
+        "title": "Великий Гэтсби - Фрэнсис Скотт Фицджеральд",
+        "img": "https://lh3.googleusercontent.com/proxy/3jsnJ7Tjd1bjowAkBSXsz-4FnVSx-3guAq8H1d-B6kvyBcHcDlP74SS_TkbDniiqAGqhl39f6w"
+    },
+    { 
+        "id": 4,
+        "title": "Убить пересмешника - Харпер Ли",
+        "img": "https://lh3.googleusercontent.com/proxy/3jsnJ7Tjd1bjowAkBSXsz-4FnVSx-3guAq8H1d-B6kvyBcHcDlP74SS_TkbDniiqAGqhl39f6w"
+    },
+    { 
+        "id": 5,
+        "title": "Над пропастью во ржи - Джером Сэлинджер",
+        "img": "https://lh3.googleusercontent.com/proxy/3jsnJ7Tjd1bjowAkBSXsz-4FnVSx-3guAq8H1d-B6kvyBcHcDlP74SS_TkbDniiqAGqhl39f6w"
+    },
+    { 
+        "id": 6,
+        "title": "Дневник Анны Франк",
+        "img": "https://lh3.googleusercontent.com/proxy/3jsnJ7Tjd1bjowAkBSXsz-4FnVSx-3guAq8H1d-B6kvyBcHcDlP74SS_TkbDniiqAGqhl39f6w"
+    },
+    { 
+        "id": 7,
+        "title": "1984 - Джордж Оруэлл",
+        "img": "https://lh3.googleusercontent.com/proxy/3jsnJ7Tjd1bjowAkBSXsz-4FnVSx-3guAq8H1d-B6kvyBcHcDlP74SS_TkbDniiqAGqhl39f6w"
+    },
+    { 
+        "id": 8,
+        "title": "Маленький принц - Антуан де Сент-Экзюпери",
+        "img": "https://lh3.googleusercontent.com/proxy/3jsnJ7Tjd1bjowAkBSXsz-4FnVSx-3guAq8H1d-B6kvyBcHcDlP74SS_TkbDniiqAGqhl39f6w"
+    },
+    { 
+        "id": 9,
+        "title": "Атлант расправил плечи - Айн Рэнд",
+        "img": "https://lh3.googleusercontent.com/proxy/3jsnJ7Tjd1bjowAkBSXsz-4FnVSx-3guAq8H1d-B6kvyBcHcDlP74SS_TkbDniiqAGqhl39f6w"
+    },
+    { 
+        "id": 10,
+        "title": "Гроздья гнева -  Джордж Стейнбек",
+        "img": "https://lh3.googleusercontent.com/proxy/3jsnJ7Tjd1bjowAkBSXsz-4FnVSx-3guAq8H1d-B6kvyBcHcDlP74SS_TkbDniiqAGqhl39f6w"
+    }
+    
+]
