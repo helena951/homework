@@ -44,6 +44,7 @@ const songs = ["Song1.mp3","Song2.mp3","Song3.mp3"];
             if (currentSong < 0) {
                 currentSong = 2;
             }
+             playSong();
         }
         
     
